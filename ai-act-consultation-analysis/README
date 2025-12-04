@@ -1,0 +1,4 @@
+AI Act Public Consultation Analysis
+
+This repository reproduces the data extraction, cleaning, and merging of the 2020 European Commission public consultation on the Artificial Intelligence Act.  
+The output is a harmonized dataset combining all questionnaire responses (N=1,216) and the corresponding uploaded position papers (N=375 matched PDFs) from the European Commission Have Your Say portal (https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12527-Artificial-intelligence-ethical-and-legal-requirements_en including the uploaded letters from the same consultation (20 Feb 2020 – 14 Jun 2020).
