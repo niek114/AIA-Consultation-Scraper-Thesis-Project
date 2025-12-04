@@ -1,0 +1,8 @@
+pandas
+numpy
+pdfminer.six
+pytesseract
+pillow
+langdetect
+pycountry
+jupyter
